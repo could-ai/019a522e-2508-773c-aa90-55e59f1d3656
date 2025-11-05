@@ -56,7 +56,8 @@ class ProfileScreen extends StatelessWidget {
                   ),
                 ),
               ],
-            ),n          ),
+            ),
+          ),
           // Bio
           const Padding(
             padding: EdgeInsets.symmetric(horizontal: 16),
